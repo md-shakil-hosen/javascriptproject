@@ -1,0 +1,17 @@
+/* single div for single selected name  */
+
+.selectedDiv{
+    background: rgb(50, 74, 211);
+    color: rgb(255, 255, 255);
+    margin: 3px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.total-population{
+    background-color:RGB(22, 55, 106);
+    color: white;
+    padding: 5px;
+}
+h3,h4,h5,h6{
+    margin: 0;
+}

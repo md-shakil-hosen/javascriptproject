@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Pabna",
+        "code": "6600",
+        "famous": "Ghee",
+        "population": "182241",
+        "area": "3430",
+        "devision": "Rangpur",
+        "img": "https://images.unsplash.com/photo-1573812461383-e5f8b759d12e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "name": "Barguna",
+        "code": "002",
+        "famous": "Chuiya Pitha,",
+        "population": "3605083",
+        "area": "3414",
+        "devision": "Barisal",
+        "img": "https://i.ytimg.com/vi/w2doIz9mGvo/maxresdefault.jpg"
+    },
+    {
+        "name": "Panchagarah",
+        "code": "003",
+        "famous": "Egg Curry",
+        "population": "987644",
+        "area": "1405",
+        "devision": "Rangpur",
+        "img": "https://www.alponaweb.com/uploads/photos/%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%B2-%E0%A6%A1%E0%A6%BF%E0%A6%AE-%E0%A6%AD%E0%A7%81%E0%A6%A8%E0%A6%BE-60cedddd9ba26.jpg"
+    },
+    {
+        "name": "Natore",
+        "code": "004",
+        "famous": "Kachagolla",
+        "population": "300957",
+        "area": "3452",
+        "devision": "Rajshahi",
+        "img": "https://samakal.com/uploads/2019/01/print/photos/Untitled-11-5c2f753d6a6b6.jpg"
+    },
+    {
+        "name": "Narail",
+        "code": "005",
+        "famous": "Molasses",
+        "population": "388335",
+        "area": "4479",
+        "devision": "Khulna",
+        "img": "https://cdn.risingbd.com/media/imgAll/2017December/bg/Ghur20180304171941.jpg"
+    },
+    {
+        "name": "Pirojpur",
+        "code": "006",
+        "famous": "Guava",
+        "population": "1000476 ",
+        "area": "3959 ",
+        "devision": "Barisal",
+        "img": "https://www.abekshan.com/wp-content/uploads/2020/01/511dDyKZwgL._SX425_.jpg"
+    },
+    {
+        "name": "Chittagong",
+        "code": "007",
+        "famous": "Mejabani Beef",
+        "population": "700616",
+        "area": "5283",
+        "devision": "Chitagng",
+        "img": "https://www.crimetvbangla.com/wp-content/uploads/2020/08/mejbani_gorur_mangsho-715x477-1.jpg"
+    },
+    {
+        "name": "Chandpur",
+        "code": "008",
+        "famous": "Ilish",
+        "population": "200416 ",
+        "area": "1704",
+        "devision": "Comilla",
+        "img": "https://img-global.cpcdn.com/recipes/8ccc0510c68ce3a0/1200x630cq70/photo.jpg"
+    },
+    {
+        "name": "Kishoreganj",
+        "code": "009",
+        "famous": "Balish Sweet",
+        "population": "100707",
+        "area": "1900 ",
+        "devision": "Dhaka",
+        "img": "https://i.ytimg.com/vi/tI_hS542IB8/maxresdefault.jpg"
+    },
+    {
+        "name": "Natore",
+        "code": "009",
+        "famous": "Kacha golla",
+        "population": "100707",
+        "area": "1900 ",
+        "devision": "Rajshahi",
+        "img": "https://www.rankmylist.com/images/listimagedisplay/uTbcLNoWcnYIu1Vhxm48hPyALQKXh66R8CFCtgCAoO1.jpg"
+    },
+    {
+        "name": "Narsingdi",
+        "code": "009",
+        "famous": "Banana",
+        "population": "100707",
+        "area": "1900 ",
+        "devision": "Dhaka",
+        "img": "https://www.dailyfoodshop.com/wp-content/uploads/2020/05/banana-sagor-kola.jpg"
+    },
+    {
+        "name": "Shariatpur",
+        "code": "010",
+        "famous": "Bibikhana Pitha",
+        "population": "1200004",
+        "area": "1464 ",
+        "devision": "Dhaka",
+        "img": "https://travelbd.xyz/wp-content/uploads/2020/10/maxresdefault.jpg"
+    }
+]
